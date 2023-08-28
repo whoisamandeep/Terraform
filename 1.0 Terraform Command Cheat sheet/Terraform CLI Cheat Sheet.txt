@@ -65,4 +65,7 @@ terraform untaint aws_instance.my_ec2	        unmarks a Terraform-managed resour
 terraform force-unlock LOCK_ID	                removes the lock on the state for the current configuration
 terraform login         	                obtain and save an API token for Terraform Cloud
 terraform logout	                        remove credentials stored by terraform login
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3377c19d724b64e425f5a10753dcffdaecc5fc0d
